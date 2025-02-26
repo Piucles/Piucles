@@ -3,4 +3,6 @@
 
 ![Piucles' GitHub stats](https://github-readme-stats.vercel.app/api?username=Piucles&show_icons=true&theme=synthwave&count_private=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piucles&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piucles&theme=synthwave&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
